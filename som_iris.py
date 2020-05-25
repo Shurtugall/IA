@@ -3,6 +3,8 @@
 # Esse programa executa em qualquer distribuição Python 3
 # SOM para o dataset "iris_data_012.txt"
 
+#Codigo base: https://visualstudiomagazine.com/articles/2019/01/01/self-organizing-maps-python.aspx
+
 # ============================================================================
 
 """
